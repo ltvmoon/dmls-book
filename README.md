@@ -8,12 +8,13 @@ Machine learning systems are both complex and unique. Complex because they consi
 
 [<img src="./assets/dmls-cover.png" width="250">](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)
 
-The book has been translated into [Spanish](https://www.amazon.com/Dise%C3%B1o-sistemas-Machine-Learning-aplicaciones/dp/8426736955/), [Japanese](https://www.oreilly.co.jp/books/9784814400409/), [Korean](https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1811121220), [Polish](https://helion.pl/ksiazki/jak-projektowac-systemy-uczenia-maszynowego-iteracyjne-tworzenie-aplikacji-gotowych-do-pracy-chip-huyen,jakpsu.htm#format/d), and [Thai](https://www.lazada.co.th/products/designing-machine-learning-systems-i4258019199-s16857887502.html).
+The book has been translated into 10+ languages including: [Japanese](https://www.oreilly.co.jp/books/9784814400409/), [Korean](https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1811121220), [Vietnamese](https://www.facebook.com/nhanampublishing/posts/pfbid0j4qygGh4nTLbDKDfyyPbkVXtWQa32DijbPfBt2tXmhrUGAZ8wJUoEcGkoe8pt5gcl), [traditional Chinese](https://www.gotop.com.tw/books/BookDetails.aspx?Types=v&bn=A738), [simplified Chinese - mainland China](https://oreillymedia.com.cn/index.php?func=book&isbn=978-7-5198-8628-8), [simplified Chinese - Taiwan](https://fe.suning.com/bigimages/12429674436.html), [Portuguese](https://www.amazon.com/PROJETANDO-SISTEMAS-MACHINE-LEARNING-Ravaglia/dp/8550819670), [Spanish](https://www.amazon.com/Dise%C3%B1o-sistemas-Machine-Learning-aplicaciones/dp/8426736955/), [Russian](https://www.chitai-gorod.ru/product/proektirovanie-sistem-mashinnogo-obucheniya-2990668?srsltid=AfmBOoqOV5AmFVNedKvq0DHvEnQEgNYqiubU-57CxODNy3sxnn5WnfGz), [Polish](https://helion.pl/ksiazki/jak-projektowac-systemy-uczenia-maszynowego-iteracyjne-tworzenie-aplikacji-gotowych-do-pracy-chip-huyen,jakpsu.htm#format/d), [Serbian](https://www.mikroknjiga.rs/masinsko-ucenje-projektovanje-sistema/46926), [Turkish](https://www.kitapyurdu.com/kitap/makine-ogrenmesi-sistemleri-tasarlamak/680393.html?srsltid=AfmBOoqxuD51dOaVe8a42WH6RU_Fyh9nuN2DWNMIuqVlEjwYBHsRoPEU), [Greek](https://www.public.gr/product/books/greek-books/computer-science/program-instruction-manuals/sxediasi-sustimaton-mixanikis-mathisis/2004325), and [Thai](https://www.lazada.co.th/products/designing-machine-learning-systems-i4258019199-s16857887502.html).
 
 The book is available on:
 - [Amazon](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)
 - [O'Reilly](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 - [Kindle](https://www.amazon.com/Designing-Machine-Learning-Systems-Huyen-ebook-dp-B0B1LGL2SR/dp/B0B1LGL2SR/r)
+- [Amazon India](http://amazon.in/Designing-Machine-Learning-Systems-Production-Ready/dp/9355422679)
 
 and most places where technical books are sold.
 
